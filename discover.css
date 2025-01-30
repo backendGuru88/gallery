@@ -169,7 +169,7 @@ ul button:hover {
         margin-top: 50px;
     }
     section {
-        height: 200vh;
+        height: 100vh;
     }
     .main1 {
         grid-template-columns: repeat(1, 1fr);
@@ -203,7 +203,7 @@ ul button:hover {
     .main1 {
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(12, 1fr);
-        height: 100vh;
+        height: 200vh;
     }
     #ff{
         display: none;
